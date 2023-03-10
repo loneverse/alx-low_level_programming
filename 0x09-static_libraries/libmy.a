@@ -1,0 +1,100 @@
+// _putchar.c
+int _putchar(char c) {
+    // implementation code here
+}
+
+// _islower.c
+int _islower(int c) {
+    // implementation code here
+}
+
+// _isalpha.c
+int _isalpha(int c) {
+    // implementation code here
+}
+
+// _abs.c
+int _abs(int n) {
+    // implementation code here
+}
+
+// _isupper.c
+int _isupper(int c) {
+    // implementation code here
+}
+
+// _isdigit.c
+int _isdigit(int c) {
+    // implementation code here
+}
+
+// _strlen.c
+int _strlen(char *s) {
+    // implementation code here
+}
+
+// _puts.c
+void _puts(char *s) {
+    // implementation code here
+}
+
+// _strcpy.c
+char *_strcpy(char *dest, char *src) {
+    // implementation code here
+}
+
+// _atoi.c
+int _atoi(char *s) {
+    // implementation code here
+}
+
+// _strcat.c
+char *_strcat(char *dest, char *src) {
+    // implementation code here
+}
+
+// _strncat.c
+char *_strncat(char *dest, char *src, int n) {
+    // implementation code here
+}
+
+// _strncpy.c
+char *_strncpy(char *dest, char *src, int n) {
+    // implementation code here
+}
+
+// _strcmp.c
+int _strcmp(char *s1, char *s2) {
+    // implementation code here
+}
+
+// _memset.c
+char *_memset(char *s, char b, unsigned int n) {
+    // implementation code here
+}
+
+// _memcpy.c
+char *_memcpy(char *dest, char *src, unsigned int n) {
+    // implementation code here
+}
+
+// _strchr.c
+char *_strchr(char *s, char c) {
+    // implementation code here
+}
+
+// _strspn.c
+unsigned int _strspn(char *s, char *accept) {
+    // implementation code here
+}
+
+// _strpbrk.c
+char *_strpbrk(char *s, char *accept) {
+    // implementation code here
+}
+
+// _strstr.c
+char *_strstr(char *haystack, char *needle) {
+    // implementation code here
+}
+
